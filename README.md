@@ -24,4 +24,4 @@ Thanks for joining us! In this workshop, we'll take a quick refresher on GitHub 
 - [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/): Learn how to register and set up permissions and authentication options for GitHub Apps.
 - [Building GitHub Actions](https://help.github.com/en/github/automating-your-workflow-with-github-actions/building-actions): Learn how to build a JavaScript action using the actions toolkit.
 - [Probot](https://probot.github.io/): A framework for developing GitHub Apps, written in Node.js
-- [Probot Actions Adapter](#TODO): 
+- [Probot Actions Adapter](https://github.com/probot/actions-adapter): An adapter that takes a Probot app and makes it compatible with GitHub Actions
