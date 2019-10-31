@@ -15,9 +15,16 @@
 * **Required**: Sign up for the [public beta](https://github.com/features/actions) of GitHub Actions. The account that you use for this should be the one you plan on using in the workshop.
 * **Helpful**: Familiarity with GitHub ([example training course](https://lab.github.com/githubtraining/introduction-to-github)), JavaScript, and GitHub Actions
 
-## Welcome
+## :wave: Welcome
 
 Thanks for joining us! In this workshop, we'll take a quick refresher on GitHub _Apps_ and understand how they compare to GitHub _Actions_. We'll guide you through the decision processes needed when understanding how best to integrate with GitHub. And then, we’ll spend some time walking through the conversion of a GitHub App to an Action.
+
+## :bookmark: Getting started
+
+We'll be working with the following repos, feel free to bookmark these for later!
+
+1. [`universeworkshops/todo-template`](https://github.com/universeworkshops/todo-template)
+1. [`universeworkshops/scrabblescore-template`](https://github.com/universeworkshops/scrabblescore-template)
 
 ## :books: Additional resources
 - [GitHub Developer Documentation](https://developer.github.com/): Handy guides and reference documentation you can use to start building on GitHub's platform
