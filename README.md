@@ -21,7 +21,7 @@ Thanks for joining us! In this workshop, we'll take a quick refresher on GitHub 
 
 ## :books: Additional resources
 - [GitHub Developer Documentation](https://developer.github.com/): Handy guides and reference documentation you can use to start building on GitHub's platform
-- [GitHub Apps](#TODO): 
+- [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/): Learn how to register and set up permissions and authentication options for GitHub Apps.
 - [GitHub Actions](#TODO): 
 - [Probot](https://probot.github.io/): A framework for developing GitHub Apps, written in Node.js
 - [Probot Actions Adapter](#TODO): 
