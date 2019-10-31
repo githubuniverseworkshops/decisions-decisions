@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png" width="100" height="60">
 
-  <h3 align="center">Workshop: Decisions, decisions: GitHub Apps or GitHub Actions?<br></h3>
+  <h3 align="center">Workshop: Decisions, Decisions: GitHub Apps or GitHub Actions?<br></h3>
 
   <p align="center">
     <a href="https://githubuniverse.com/">Universe Program</a>
   </p>
 </p>
 
-# Decisions, decisions: GitHub Apps or GitHub Actions?
+# Decisions, Decisions: GitHub Apps or GitHub Actions?
 
 ## Before we begin
 * **Required**: Sign up for [GitHub](https://github.com/join?source=header-home). 😀
