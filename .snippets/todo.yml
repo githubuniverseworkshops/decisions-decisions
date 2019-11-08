@@ -1,0 +1,17 @@
+name:
+
+# Need to listen to all the events that the original probot app responds to
+on:
+
+jobs:
+  todo:
+    name: TODO
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Context
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: |
+        echo "$GITHUB_CONTEXT"
+
